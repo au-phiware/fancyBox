@@ -1,10 +1,7 @@
 {
   "name": "fancybox",
   "version": "2.1.5",
-  "main": [
-    "source/jquery.fancybox.css",
-    "source/jquery.fancybox.js"
-  ],
+  "main": "source/jquery.fancybox.js",
   "ignore": [
     "**/.*",
     "*.json",
