@@ -1,0 +1,17 @@
+{
+  "name": "fancybox",
+  "version": "2.1.5",
+  "main": [
+    "source/jquery.fancybox.css",
+    "source/jquery.fancybox.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "*.json",
+    "*.psd",
+    "demo"
+  ],
+  "dependencies": {
+    "jquery": ">=1.10.2"
+  }
+}
